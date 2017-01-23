@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Welcome to Internet Marketing
 
-You can use the [editor on GitHub](https://github.com/jkuruzovich/internet_marketing/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Instructor Name: Jason Kuruzovich	  
+Office Location: Pittsburgh Severino Center
+Tel. No.:	 518-698-9910 		             
+Email Address: kuruzj(at)rpi.edu
+Office Hours: Wed 10:00 AM-12:00 PM, by appointment 			
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+TA Name: Chaoqun Deng	 Office 
+Location: Ph.D. office on the fourth floor.
+Tel. No.:	 757-339-4751			 
+Email Address: dengc2(at)rpi.edu
+Office Hours: Monday 3:00 pm-6:00 pm on Monday, by appointment 	
 
-### Markdown
+## Relevant Links
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Required Texts
+**Book**
+*Internet Marketing: Integrating Online and Offline Strategies, 3rd Edition Mary-Lou Roberts Retired Professor of Marketing Debra Zahay Northern Illinois University*
+ISBN-10: 1133625908  ISBN-13: 9781133625902 
+[Amazon](https://www.amazon.com/Internet-Marketing-Integrating-Offline-Strategies/dp/1133625908)
 
-```markdown
-Syntax highlighted code block
+**HBS Case Packet** 
+The case packet is available for purchase from HBS [here](http://cb.hbsp.harvard.edu/cbmp/access/59602460).
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jkuruzovich/internet_marketing/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
