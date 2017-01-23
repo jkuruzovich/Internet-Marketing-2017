@@ -33,13 +33,13 @@ The case packet is available for purchase from HBS [here](http://cb.hbsp.harvard
 | 4       | 2/13/17 | Search Engine Marketing I                                 | Class |
 |         | 2/20/17 | President's Day holiday-No classes.                       | Class |
 | 5       | 2/21/17 | Search Engine Marketing II                                | Class |
-| 5       | 2/23/17 | *Project: Company Selection Due*                          | [Project](https://gist.github.com/jkuruzovich/8cb657a0220906c99e1aa2db92becc9c) |
+|         | 2/23/17 | *Project: Company Selection Due*                          | [Project](https://gist.github.com/jkuruzovich/8cb657a0220906c99e1aa2db92becc9c) |
 | 6       | 2/27/17 | Social Media, (Twitter, Facebook, Linked-In)              | Class |
 | 7       | 3/6/17  | Social Media, (Twitter, Facebook, Linked-In)              | Class Midterm |
 |         | 3/13/17 | Spring Break                                              | Class |
 | 8       | 3/20/17 | B2B Email Marketing and the Sales Funnel                  | Class |
 | 9       | 3/27/17 | CRM                                                       | Class |
-| 9       | 3/27/17 | *Project: Draft of initial sections.*                     | [Project](https://gist.github.com/jkuruzovich/8cb657a0220906c99e1aa2db92becc9c) |
+|         | 4/1/17  | *Project: Draft of initial sections.*                     | [Project](https://gist.github.com/jkuruzovich/8cb657a0220906c99e1aa2db92becc9c) |
 | 10      | 4/3/17  | Customer Data, Risk, and Privacy                          | Class |
 | 11      | 4/10/17 | Internet of Things and the Customer Relationship          | Class |
 | 12      | 4/17/17 | Web and Content Marketing                                 | Class |
