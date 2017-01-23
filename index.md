@@ -27,8 +27,8 @@ The case packet is available for purchase from HBS [here](http://cb.hbsp.harvard
 
 | Session | Date    | Topic                                                     | Link |
 |---------|---------|-----------------------------------------------------------|------|
-| 1       | 1/23/17 | Introduction: Course Overview, and Growth Hacking         | Link |
-| 2       | 1/30/17 | Overall Marketing Strategy                                | Link |
+| 1       | 1/23/17 | Introduction: Course Overview, and Growth Hacking         | [Link](https://gist.github.com/jkuruzovich/bc4da3fb9b16c929bdb475802d3bc1fe) |
+| 2       | 1/30/17 | Overall Marketing Strategy                                | [Link](https://gist.github.com/jkuruzovich/03e03b1cd27df3546d6c36f6ca4c0f18) |
 | 3       | 2/6/17  | Customer Valuation, Segmentation, and Persona Development | Link |
 | 4       | 2/13/17 | Search Engine Marketing I                                 | Link |
 |         | 2/20/17 | President's Day holiday-No classes.                       | Link |
