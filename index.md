@@ -32,7 +32,7 @@ The case packet is available for purchase from HBS [here](http://cb.hbsp.harvard
 | 3       | 2/6/17  | Customer Valuation, Segmentation, and Persona Development | [Class](https://gist.github.com/jkuruzovich/961a270f0c1f7efb124f12d61d4bd1f8)|
 | 4       | 2/13/17 | Search Engine Marketing I                                 | [Class](https://gist.github.com/jkuruzovich/85214af89b8c7f204f4f20e52beb13b4) |
 |         | 2/20/17 | President's Day holiday-No classes.                       | Class |
-| 5       | 2/21/17 | Search Engine Marketing II *(Tuesday)*                    | Class |
+| 5       | 2/21/17 | Search Engine Marketing II *(Tuesday)*                    | [Class](https://gist.github.com/jkuruzovich/44f53648118381f1e328a6eb6af9b13e) |
 |         | 2/23/17 | *Project: Company Selection Due*                          | [Project](https://gist.github.com/jkuruzovich/8cb657a0220906c99e1aa2db92becc9c) |
 | 6       | 2/27/17 | Social Media, (Twitter, Facebook, Linked-In)              | Class |
 | 7       | 3/6/17  | Social Media, (Twitter, Facebook, Linked-In)              | Class Midterm |
