@@ -35,7 +35,7 @@ The case packet is available for purchase from HBS [here](http://cb.hbsp.harvard
 | 5       | 2/21/17 | Search Engine Marketing II *(Tuesday)*                    | [Class](https://gist.github.com/jkuruzovich/44f53648118381f1e328a6eb6af9b13e) |
 |         | 2/23/17 | *Project: Company Selection Due*                          | [Project](https://gist.github.com/jkuruzovich/8cb657a0220906c99e1aa2db92becc9c) |
 | 6       | 2/27/17 | Social Media, (Twitter, Facebook, Linked-In)              | [Class](https://gist.github.com/jkuruzovich/37a5d889f2af195f42451a4c68f8d1a3) |
-| 7       | 3/6/17  | Social Media, (Twitter, Facebook, Linked-In)              | Class Midterm |
+| 7       | 3/6/17  | Social Media, (Twitter, Facebook, Linked-In)              | [Class](https://gist.github.com/jkuruzovich/b22c99bdf1dc6a124c051039fa1761ea) Midterm |
 |         | 3/13/17 | Spring Break                                              | Class |
 | 8       | 3/20/17 | B2B Email Marketing and the Sales Funnel                  | Class |
 | 9       | 3/27/17 | CRM                                                       | Class |
