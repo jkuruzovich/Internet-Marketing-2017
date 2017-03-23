@@ -39,10 +39,10 @@ The case packet is available for purchase from HBS [here](http://cb.hbsp.harvard
 |         | 3/13/17 | Spring Break                                              | Class |
 | 8       | 3/20/17 | B2B Email Marketing and the Sales Funnel                  | [Class](https://gist.github.com/jkuruzovich/d6a92558796cb03abd2d71e92321b9c1) |
 | 9       | 3/27/17 | CRM                                                       | [Class](https://gist.github.com/jkuruzovich/0d6bdc0f97c69565b1672a2f37f01db4) |
-|         | 4/1/17  | *Project: Draft of initial sections.*                     | [Project](https://gist.github.com/jkuruzovich/8cb657a0220906c99e1aa2db92becc9c) |
-| 10      | 4/3/17  | Customer Data, Risk, and Privacy                          | Class |
-| 11      | 4/10/17 | Internet of Things and the Customer Relationship          | Class |
-| 12      | 4/17/17 | Web and Content Marketing                                 | Class |
-| 13      | 4/24/17 | Advanced Topics in Analytics and Visualization            | Class |
+| 10      | 4/3/17  | *Project: Presentation of initial sections.*              | [Project](https://gist.github.com/jkuruzovich/8cb657a0220906c99e1aa2db92becc9c) |
+|         | 4/5/17  | *Project: Draft of initial sections.*                     | [Project](https://gist.github.com/jkuruzovich/8cb657a0220906c99e1aa2db92becc9c) |
+| 11      | 4/10/17  | Customer Data, Risk, and Privacy                          | Class |
+| 12      | 4/17/17 | Internet of Things and the Customer Relationship          | Class |
+| 13      | 4/24/17 | Web and Content Marketing                                 | Class |
 | 14      | 5/1/17  | Final Presentation                                        | [Project](https://gist.github.com/jkuruzovich/8cb657a0220906c99e1aa2db92becc9c) |
 | 15      | TBD     | Final Exam                                                | Exam |
