@@ -41,7 +41,7 @@ The case packet is available for purchase from HBS [here](http://cb.hbsp.harvard
 | 9       | 3/27/17 | CRM                                                       | [Class](https://gist.github.com/jkuruzovich/0d6bdc0f97c69565b1672a2f37f01db4) |
 | 10      | 4/3/17  | *Project: Presentation of initial sections.*              | [Project](https://gist.github.com/jkuruzovich/8cb657a0220906c99e1aa2db92becc9c) |
 |         | 4/5/17  | *Project: Draft of initial sections.*                     | [Project](https://gist.github.com/jkuruzovich/8cb657a0220906c99e1aa2db92becc9c) |
-| 11      | 4/10/17  | Customer Data, Risk, and Privacy                          | Class |
+| 11      | 4/10/17  | Customer Data, Risk, and Privacy                          | [Class](https://gist.github.com/jkuruzovich/07040f9af5f337089ac551b03897fbe9) |
 | 12      | 4/17/17 | Internet of Things and the Customer Relationship          | Class |
 | 13      | 4/24/17 | Web and Content Marketing                                 | Class |
 | 14      | 5/1/17  | Final Presentation                                        | [Project](https://gist.github.com/jkuruzovich/8cb657a0220906c99e1aa2db92becc9c) |
