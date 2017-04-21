@@ -45,4 +45,4 @@ The case packet is available for purchase from HBS [here](http://cb.hbsp.harvard
 | 12      | 4/17/17 | Internet of Things and the Customer Relationship          | [Class](https://gist.github.com/jkuruzovich/ecf87866b0b78e590257a522456dce3d) |
 | 13      | 4/24/17 | Web and Content Marketing                                 | [Class](https://gist.github.com/jkuruzovich/2561b0c47fa3fc790464441e616680db) |
 | 14      | 5/1/17  | Final Presentation                                        | [Project](https://gist.github.com/jkuruzovich/8cb657a0220906c99e1aa2db92becc9c) |
-| 15      | TBD     | Final Exam                                                | Exam |
+| 15      | 5/9/17     | Final Exam                                                | [Exam](https://gist.github.com/jkuruzovich/44ccca69269cffa024d5142241e809c7) |
